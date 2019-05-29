@@ -1,0 +1,33 @@
+.nav {
+  list-style-type: none;
+  margin: auto;
+  text-align: center;
+}
+
+.nav-list {
+  text-decoration: none;
+}
+
+.nav button {
+  margin: .8rem;
+  padding: .5rem;
+}
+
+.prof-pic {
+  text-align: left;
+}
+
+footer {
+  text-align: right;
+}
+
+.header {
+  text-align: center;
+}
+
+.header img {
+  display: inline-block;
+  text-align: left;
+  height: 200px;
+  width: 200px; 
+}
